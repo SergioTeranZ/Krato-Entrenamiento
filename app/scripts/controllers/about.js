@@ -14,5 +14,4 @@ angular.module('kratoAdminApp')
       'AngularJS',
       'Karma'
     ];
-    console.log('hola desde about');
   });
